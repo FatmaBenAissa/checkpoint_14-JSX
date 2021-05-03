@@ -1,0 +1,24 @@
+.title{
+    font-size: 80px;
+    font-weight: 100px;
+}
+.red{
+    color:rgb(241, 45, 104);
+    text-align: center;
+}
+.container{
+    background-color: rosybrown;
+}
+.im1{
+    width:500px;
+    height:420px ;
+    text-align: center;
+}
+.div1{
+    display: flex;
+    justify-content: space-around;
+}
+video{
+    margin-left: 25%;
+    margin-top: 20px;
+}
